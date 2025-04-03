@@ -1,0 +1,1001 @@
+IP Address,Host Status,Detected OS,Open Port,Service,Vulnerability
+192.168.1.1,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.4,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.5,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.5,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.7,up,Windows 10,3306,MySQL,MySQL Weak Credentials
+192.168.1.7,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.7,up,Windows 10,22,SSH,Weak SSH Ciphers
+192.168.1.8,up,Unknown,22,SSH,Weak SSH Ciphers
+192.168.1.8,up,Unknown,3389,RDP,RDP Brute Force Detected
+192.168.1.8,up,Unknown,3306,MySQL,MySQL Weak Credentials
+192.168.1.8,up,Unknown,80,HTTP,SQL Injection Detected
+192.168.1.11,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.11,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.11,up,Windows 10,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.11,up,Windows 10,3389,RDP,RDP Brute Force Detected
+192.168.1.12,up,Windows Server 2019,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.12,up,Windows Server 2019,3389,RDP,RDP Brute Force Detected
+192.168.1.18,up,Ubuntu 20.04,53,DNS,DNS Zone Transfer
+192.168.1.19,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.19,up,Ubuntu 20.04,53,DNS,DNS Zone Transfer
+192.168.1.19,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.19,up,Ubuntu 20.04,22,SSH,Weak SSH Ciphers
+192.168.1.20,up,Ubuntu 20.04,22,SSH,Weak SSH Ciphers
+192.168.1.23,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.24,up,Kali Linux,53,DNS,DNS Zone Transfer
+192.168.1.26,up,Windows Server 2019,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.26,up,Windows Server 2019,80,HTTP,SQL Injection Detected
+192.168.1.26,up,Windows Server 2019,3389,RDP,RDP Brute Force Detected
+192.168.1.26,up,Windows Server 2019,445,SMB,EternalBlue Exploit
+192.168.1.27,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.27,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.28,up,Unknown,53,DNS,DNS Zone Transfer
+192.168.1.28,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.31,up,Unknown,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.32,up,Unknown,21,FTP,Anonymous FTP Access
+192.168.1.32,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.32,up,Unknown,53,DNS,DNS Zone Transfer
+192.168.1.33,up,Windows 10,53,DNS,DNS Zone Transfer
+192.168.1.33,up,Windows 10,3389,RDP,RDP Brute Force Detected
+192.168.1.33,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.33,up,Windows 10,443,HTTPS,SSL/TLS Weak Cipher
+192.168.1.34,up,Unknown,53,DNS,DNS Zone Transfer
+192.168.1.36,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.36,up,Ubuntu 20.04,22,SSH,Weak SSH Ciphers
+192.168.1.36,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.40,up,Windows Server 2019,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.40,up,Windows Server 2019,25,SMTP,Open Mail Relay
+192.168.1.40,up,Windows Server 2019,80,HTTP,SQL Injection Detected
+192.168.1.40,up,Windows Server 2019,53,DNS,DNS Zone Transfer
+192.168.1.41,up,Kali Linux,5900,VNC,VNC Authentication Bypass
+192.168.1.46,up,Unknown,3306,MySQL,MySQL Weak Credentials
+192.168.1.46,up,Unknown,3389,RDP,RDP Brute Force Detected
+192.168.1.46,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.46,up,Unknown,22,SSH,Weak SSH Ciphers
+192.168.1.48,up,Windows 10,21,FTP,Anonymous FTP Access
+192.168.1.49,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.49,up,Ubuntu 20.04,3306,MySQL,MySQL Weak Credentials
+192.168.1.50,up,Windows Server 2019,445,SMB,EternalBlue Exploit
+192.168.1.50,up,Windows Server 2019,25,SMTP,Open Mail Relay
+192.168.1.50,up,Windows Server 2019,3389,RDP,RDP Brute Force Detected
+192.168.1.50,up,Windows Server 2019,53,DNS,DNS Zone Transfer
+192.168.1.163,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.33,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.128,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.203,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.17,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.230,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.177,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.227,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.246,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.6,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.140,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.122,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.253,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.122,up,Unknown,23,Telnet,Plaintext Transmission
+192.168.1.105,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.188,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.141,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.162,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.15,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.127,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.120,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.135,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.19,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.162,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.89,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.142,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.82,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.60,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.206,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.173,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.134,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.36,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.102,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.25,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.57,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.136,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.224,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.37,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.193,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.82,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.84,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.70,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.82,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.30,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.201,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.65,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.64,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.56,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.100,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.204,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.97,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.65,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.72,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.166,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.21,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.225,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.52,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.27,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.108,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.185,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.127,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.203,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.58,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.68,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.32,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.247,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.4,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.133,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.2,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.9,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.98,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.105,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.150,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.211,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.17,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.251,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.219,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.189,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.152,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.66,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.222,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.127,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.60,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.247,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.49,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.206,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.229,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.230,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.206,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.42,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.110,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.213,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.105,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.95,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.108,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.124,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.102,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.207,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.162,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.9,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.215,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.196,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.11,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.252,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.225,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.153,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.161,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.125,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.182,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.207,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.20,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.86,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.99,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.237,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.61,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.31,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.20,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.216,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.41,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.159,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.245,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.165,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.189,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.155,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.32,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.58,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.188,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.73,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.103,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.15,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.10,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.77,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.163,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.103,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.242,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.239,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.195,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.29,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.67,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.210,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.214,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.227,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.98,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.109,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.40,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.166,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.218,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.54,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.130,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.203,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.203,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.182,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.57,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.171,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.150,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.69,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.93,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.48,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.161,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.234,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.130,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.229,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.173,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.22,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.94,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.36,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.142,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.119,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.192,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.167,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.179,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.133,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.159,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.33,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.144,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.195,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.76,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.251,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.195,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.198,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.9,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.161,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.49,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.70,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.56,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.48,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.103,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.217,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.139,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.23,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.146,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.253,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.22,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.212,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.42,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.225,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.146,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.124,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.242,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.28,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.71,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.8,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.144,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.55,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.182,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.244,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.71,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.242,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.4,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.237,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.177,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.209,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.224,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.108,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.104,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.99,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.115,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.222,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.123,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.201,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.168,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.145,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.37,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.219,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.163,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.145,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.239,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.86,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.104,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.138,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.192,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.159,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.226,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.214,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.23,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.90,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.38,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.168,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.140,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.131,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.156,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.228,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.250,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.208,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.18,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.50,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.134,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.57,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.81,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.181,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.124,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.15,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.131,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.208,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.144,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.142,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.171,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.233,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.120,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.6,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.161,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.218,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.151,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.105,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.174,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.181,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.199,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.173,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.31,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.118,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.40,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.34,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.13,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.86,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.178,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.163,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.19,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.204,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.27,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.227,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.129,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.218,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.215,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.128,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.47,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.212,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.140,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.43,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.69,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.243,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.117,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.207,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.91,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.120,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.213,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.14,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.34,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.130,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.125,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.49,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.116,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.58,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.101,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.112,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.40,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.97,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.194,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.45,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.145,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.67,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.73,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.44,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.231,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.169,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.124,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.26,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.249,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.94,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.55,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.180,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.39,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.137,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.226,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.126,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.196,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.227,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.83,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.79,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.47,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.173,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.128,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.167,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.51,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.187,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.35,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.35,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.238,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.155,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.182,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.171,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.200,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.114,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.72,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.188,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.157,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.197,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.96,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.63,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.30,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.233,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.61,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.182,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.182,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.196,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.43,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.92,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.108,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.178,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.211,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.18,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.179,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.44,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.182,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.113,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.175,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.127,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.120,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.203,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.250,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.103,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.116,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.105,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.167,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.32,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.21,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.159,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.36,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.60,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.99,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.184,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.192,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.15,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.132,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.200,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.204,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.59,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.41,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.196,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.4,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.75,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.101,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.14,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.96,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.161,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.202,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.77,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.64,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.2,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.125,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.98,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.41,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.30,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.206,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.70,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.180,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.241,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.189,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.118,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.241,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.19,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.134,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.114,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.211,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.130,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.71,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.205,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.42,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.242,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.100,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.39,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.45,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.2,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.186,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.171,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.142,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.94,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.247,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.34,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.24,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.194,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.250,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.134,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.151,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.19,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.182,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.60,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.188,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.212,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.13,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.34,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.131,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.217,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.81,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.221,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.83,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.13,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.45,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.178,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.74,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.61,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.31,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.216,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.8,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.154,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.114,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.30,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.103,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.5,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.61,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.160,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.245,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.70,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.186,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.46,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.198,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.147,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.46,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.28,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.176,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.49,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.182,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.254,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.229,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.199,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.125,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.43,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.86,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.75,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.64,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.44,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.188,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.9,up,Unknown,23,Telnet,Plaintext Transmission
+192.168.1.74,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.214,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.147,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.18,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.121,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.162,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.229,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.190,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.118,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.188,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.173,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.103,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.171,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.18,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.138,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.113,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.134,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.165,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.91,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.220,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.174,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.93,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.19,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.50,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.118,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.118,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.143,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.95,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.149,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.168,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.207,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.188,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.109,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.221,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.6,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.120,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.2,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.244,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.104,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.99,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.121,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.98,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.254,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.19,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.109,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.195,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.249,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.125,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.169,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.218,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.68,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.73,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.232,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.228,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.232,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.252,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.6,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.175,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.38,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.43,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.252,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.197,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.60,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.110,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.198,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.243,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.46,up,Unknown,23,Telnet,Plaintext Transmission
+192.168.1.3,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.9,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.247,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.19,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.180,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.231,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.245,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.238,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.230,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.48,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.82,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.208,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.21,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.14,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.149,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.114,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.182,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.67,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.154,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.109,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.254,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.149,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.139,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.60,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.249,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.106,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.226,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.14,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.17,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.19,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.54,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.63,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.149,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.45,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.101,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.18,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.133,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.106,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.249,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.59,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.169,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.124,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.173,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.99,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.232,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.248,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.224,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.175,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.42,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.192,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.155,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.119,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.55,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.117,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.129,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.20,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.203,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.245,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.221,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.55,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.249,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.230,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.138,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.13,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.10,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.169,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.27,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.213,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.92,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.228,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.194,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.76,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.151,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.78,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.245,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.9,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.70,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.16,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.71,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.146,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.52,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.238,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.221,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.154,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.234,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.121,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.244,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.208,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.95,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.196,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.102,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.151,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.242,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.198,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.73,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.138,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.173,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.4,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.157,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.199,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.163,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.178,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.38,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.239,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.52,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.16,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.34,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.197,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.27,up,Unknown,23,Telnet,Plaintext Transmission
+192.168.1.10,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.7,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.37,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.52,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.159,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.188,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.108,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.6,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.92,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.48,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.242,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.12,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.58,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.131,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.232,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.39,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.7,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.173,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.223,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.21,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.157,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.173,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.30,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.185,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.245,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.186,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.198,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.160,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.108,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.48,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.189,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.92,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.240,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.53,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.105,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.79,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.31,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.195,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.205,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.224,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.237,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.196,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.207,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.37,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.115,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.226,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.50,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.45,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.127,up,Unknown,21,FTP,Anonymous Login Enabled
+192.168.1.183,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.152,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.123,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.8,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.57,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.191,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.214,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.94,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.212,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.81,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.142,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.134,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.227,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.67,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.129,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.146,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.28,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.212,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.165,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.3,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.31,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.148,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.163,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.102,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.148,up,Unknown,443,HTTPS,SSL Certificate Expired
+192.168.1.107,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.79,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.160,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.244,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.113,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.252,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.56,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.72,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.96,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.166,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.162,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.178,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.31,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.250,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.149,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.231,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.144,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.212,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.98,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.206,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.9,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.157,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.116,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.124,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.112,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.129,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.77,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.78,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.173,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.225,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.236,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.230,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.214,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.30,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.69,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.48,up,Unknown,5900,VNC,VNC Authentication Bypass
+192.168.1.89,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.140,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.186,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.192,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.71,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.184,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.243,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.58,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.24,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.239,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.241,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.199,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.38,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.103,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.168,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.221,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.7,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.251,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.103,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.6,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.144,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.94,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.108,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.60,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.51,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.41,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.113,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.98,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.107,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.20,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.49,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.41,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.141,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.30,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.178,up,CentOS 7,3306,MySQL,Weak Credentials
+192.168.1.90,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.127,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.193,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.84,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.3,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.12,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.84,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.124,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.169,up,Windows Server 2016,443,HTTPS,SSL Certificate Expired
+192.168.1.109,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.239,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.136,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.107,up,CentOS 7,22,SSH,Weak Encryption Algorithms
+192.168.1.7,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.99,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.51,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.56,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.147,up,CentOS 7,5432,PostgreSQL,Default Password
+192.168.1.253,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.164,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.28,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.178,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.115,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.234,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.249,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.154,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.70,up,Windows 10,5900,VNC,VNC Authentication Bypass
+192.168.1.208,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.33,up,CentOS 7,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.12,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.163,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.143,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.90,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.253,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.179,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.212,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.222,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.158,up,Unknown,5432,PostgreSQL,Default Password
+192.168.1.107,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.254,up,Ubuntu 20.04,443,HTTPS,SSL Certificate Expired
+192.168.1.251,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.220,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.41,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.24,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.8,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.180,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.184,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.213,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.115,up,Ubuntu 20.04,445,SMB,EternalBlue Exploit
+192.168.1.85,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.95,up,Windows Server 2016,5432,PostgreSQL,Default Password
+192.168.1.74,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.22,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.193,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.160,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.193,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.243,up,Windows 10,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.75,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.124,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.206,up,Ubuntu 20.04,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.146,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.19,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.2,up,Windows 10,445,SMB,EternalBlue Exploit
+192.168.1.230,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.111,up,Windows 10,5432,PostgreSQL,Default Password
+192.168.1.104,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.38,up,Windows 10,3306,MySQL,Weak Credentials
+192.168.1.215,up,Windows Server 2016,5900,VNC,VNC Authentication Bypass
+192.168.1.36,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.157,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.14,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.153,up,Ubuntu 20.04,5900,VNC,VNC Authentication Bypass
+192.168.1.132,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.37,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.147,up,CentOS 7,5900,VNC,VNC Authentication Bypass
+192.168.1.96,up,Ubuntu 20.04,25,SMTP,Open Mail Relay
+192.168.1.84,up,CentOS 7,23,Telnet,Plaintext Transmission
+192.168.1.94,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.50,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.46,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.53,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.131,up,CentOS 7,25,SMTP,Open Mail Relay
+192.168.1.45,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.184,up,Windows Server 2016,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.6,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.191,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.65,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.35,up,Windows 10,21,FTP,Anonymous Login Enabled
+192.168.1.95,up,Unknown,445,SMB,EternalBlue Exploit
+192.168.1.201,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.80,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.167,up,Ubuntu 20.04,22,SSH,Weak Encryption Algorithms
+192.168.1.172,up,Windows Server 2016,21,FTP,Anonymous Login Enabled
+192.168.1.157,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.254,up,Unknown,25,SMTP,Open Mail Relay
+192.168.1.9,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.37,up,Ubuntu 20.04,80,HTTP,Outdated Apache Version
+192.168.1.66,up,CentOS 7,445,SMB,EternalBlue Exploit
+192.168.1.104,up,Windows 10,80,HTTP,Outdated Apache Version
+192.168.1.206,up,Unknown,23,Telnet,Plaintext Transmission
+192.168.1.229,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.7,up,Windows 10,23,Telnet,Plaintext Transmission
+192.168.1.8,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.5,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.149,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.137,up,CentOS 7,21,FTP,Anonymous Login Enabled
+192.168.1.162,up,Unknown,23,Telnet,Plaintext Transmission
+192.168.1.144,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.155,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.140,up,Windows Server 2016,25,SMTP,Open Mail Relay
+192.168.1.251,up,Unknown,3306,MySQL,Weak Credentials
+192.168.1.198,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.63,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.6,up,Unknown,22,SSH,Weak Encryption Algorithms
+192.168.1.33,up,CentOS 7,80,HTTP,Outdated Apache Version
+192.168.1.251,up,Windows 10,22,SSH,Weak Encryption Algorithms
+192.168.1.216,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.171,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.113,up,Windows 10,443,HTTPS,SSL Certificate Expired
+192.168.1.163,up,Unknown,80,HTTP,Outdated Apache Version
+192.168.1.63,up,Ubuntu 20.04,21,FTP,Anonymous Login Enabled
+192.168.1.78,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.140,up,Windows 10,25,SMTP,Open Mail Relay
+192.168.1.8,up,Ubuntu 20.04,5432,PostgreSQL,Default Password
+192.168.1.52,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.184,up,CentOS 7,443,HTTPS,SSL Certificate Expired
+192.168.1.71,up,Ubuntu 20.04,3306,MySQL,Weak Credentials
+192.168.1.228,up,Windows Server 2016,80,HTTP,Outdated Apache Version
+192.168.1.110,up,Windows Server 2016,22,SSH,Weak Encryption Algorithms
+192.168.1.176,up,Ubuntu 20.04,23,Telnet,Plaintext Transmission
+192.168.1.9,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.42,up,Windows Server 2016,445,SMB,EternalBlue Exploit
+192.168.1.4,up,Windows Server 2016,3306,MySQL,Weak Credentials
+192.168.1.52,up,Unknown,8080,HTTP Proxy,Proxy Misconfiguration
+192.168.1.108,up,Windows Server 2016,23,Telnet,Plaintext Transmission
+192.168.1.245,up,Windows Server 2016,445,SMB,EternalBlue Exploit
