@@ -2,7 +2,9 @@
 This project presents an interactive Power BI dashboard that visualizes and analyzes network scan data collected using Nmap. The dataset contains sample data to demonstrate how Power BI can be used to visualize network security insights.
 
 Total Rows Count - 1000
+
 Total Column Count - 6
+
 Columns Explained
 1. IP Address – The unique identifier assigned to each scanned device within the network.
 2. Host Status – Indicates whether the host is online or offline at the time of the scan.
